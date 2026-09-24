@@ -3,7 +3,7 @@
 <p align="center">Meu portfólio de Web Designer e Front-end</p>
 
 <p align="center">
-  <a href="https://santanadesouzanicolas32-sketch.github.io/Bio_site_nicoo/"><strong>🌐 Ver projeto online</strong></a>
+  <a href="https://santanadesouzanicolas32-sketch.github.io/portfolio/"><strong>🌐 Ver projeto online</strong></a>
 </p>
 
 ---
@@ -28,8 +28,8 @@
 ## 🚀 Como rodar localmente
 
 ```bash
-git clone https://github.com/santanadesouzanicolas32-sketch/Bio_site_nicoo.git
-cd Bio_site_nicoo
+git clone https://github.com/santanadesouzanicolas32-sketch/portfolio.git
+cd portfolio
 # abra o index.html no navegador ou use a extensão Live Server do VS Code
 ```
 
